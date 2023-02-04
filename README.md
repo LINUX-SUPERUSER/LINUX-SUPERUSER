@@ -1,20 +1,17 @@
-### Hi there 👋
+## About Me:
 
-My Skills:
+Hi I am a Linux Superuser with a passion for scripting. I have experience with Python, HTML, CSS, and WordPress, and am always looking for new challenges and opportunities to learn and grow as a developer.
 
-<img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU Bash&logoColor=#4EAA25"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+You can read more about my experiences and thoughts on my [Medium blog](https://medium.com/@timuria2016).
 
-<!--
-**LINUX-SUPERUSER/LINUX-SUPERUSER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out if you have any questions or would like to collaborate on a project.
 
-Here are some ideas to get you started:
+You can find out more about me and my projects on my [Website](https://tim-portfolio.net/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills:
+
+<img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU Bash&logoColor=#4EAA25"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress&logoColor=21759B"/>
+
+## Contact
+
+- Email: [bestdeveloper@tutanota.com](mailto:bestdeveloper@tutanota.com)
