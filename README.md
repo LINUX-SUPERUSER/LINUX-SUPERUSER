@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My Skills:
+
+<img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU Bash&logoColor=#4EAA25"/> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+
 <!--
 **LINUX-SUPERUSER/LINUX-SUPERUSER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
