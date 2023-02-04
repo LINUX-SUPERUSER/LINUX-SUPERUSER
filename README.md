@@ -1,3 +1,5 @@
+![Header](https://github.com/LINUX-SUPERUSER/LINUX-SUPERUSER/blob/main/assets/HEADER.png)
+
 ## About Me:
 
 Hi I am a Linux Superuser with a passion for scripting. I have experience with Python, HTML, CSS, and WordPress, and am always looking for new challenges and opportunities to learn and grow as a developer.
