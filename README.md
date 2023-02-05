@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Hi I am a Linux Superuser with a passion for scripting. I have experience with Python, HTML, CSS, and WordPress, and am always looking for new challenges and opportunities to learn and grow as a developer.
+Hi, I am a Linux Superuser with a passion for scripting. I have experience with Python, HTML, CSS, and WordPress, and I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 You can read more about my experiences and thoughts on my [Medium blog](https://medium.com/@timuria2016).
 
